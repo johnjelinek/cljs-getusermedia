@@ -2,12 +2,16 @@
  "file":
  "/Users/jjelinek/Projects/a/gum/resources/public/js/out/gum/core.js",
  "sources":["core.cljs"],
- "lineCount":52,
+ "lineCount":61,
  "mappings":
- ";AAAA;;;;;;;;;;;;;;AAUA,AAACA;AAED,kBAAA,6BAAA,/CAAMC,mCAAQE,KAAKC,OACjB,AAAA,GAAA,OAAAC;CAAA;CAAA,AAAA,AAAA;;;;;;;;;;;;AAAA,AAAA,AAAAA,gCAAA;AAAA,AAAA,AAAAA,mCAAA;AAAA,AAAA,AAAAA,wCAAA,WAAAC,mBAAAC,qBAAAC,mBAAA,AAAA,OAAAC,2BAAAF,qBAAA;;AAAA,AAAA,AAAA,AAAA,AAAAF,4CAAA;AAAA,AAAA,AAAA,AAAAA,0DAAA,WAEWQ;AAFX,AAAA,gBAAA,KAAA,jBAEWA,iBACP,OAAAC,aAAA,KAAY,AAAA,mFAAOX;;AAHvB,AAAA,AAAA,AAAAE,yDAAA,WAAAK;AAAA,AAAA,IAAAA,YAAA,KAAA,AAAAC;;AAAA,AAAA,AAAA,AAAAN,kEAAA,WAAAK,MAAAC;yEADIT,ZAAQC,bAAKC,hDACjB,AAAA,IAAAM,YAAA,KAAA,AAAA,YAAAL,sDAAAM;;8DADIT,mEAAAA,5EAAQC,mEAAAA,7EAAKC,mEAAAA,9GACjB,AAAAQ,sBAAA,mDAAAD,UAAA,AAAA,YAAAN,6CAAAM;;AAAAN;sCADIH,LAAQC,NAAKC,3BACjB,YAAAC,iCAAA;;AAKF,uCAAA,2CAAA,qDAAA,uBAAA,2CAAA,zMAACU,uBAAQd,2OACE,wBAAA,xBAAGe",
+ ";AAAA;;;;;;;;;;;;;;AAUA,AAACA;AAED,AAAKC,qBACH,yBAAA,2CAAA,qDAAA,zHAACC;AAEH,kBAAA,6BAAA,/CAAMC,mCAAQE,KAAKC,OACjB,AAAA,GAAA,OAAAC;CAAA;CAAA,AAAA,AAAA;;;;;;;;;;;;AAAA,AAAA,AAAAA,gCAAA;AAAA,AAAA,AAAAA,mCAAA;AAAA,AAAA,AAAAA,wCAAA,WAAAC,mBAAAC,qBAAAC,mBAAA,AAAA,OAAAC,2BAAAF,qBAAA;;AAAA,AAAA,AAAA,AAAA,AAAAF,4CAAA;AAAA,AAAA,AAAA,AAAAA,0DAAA,WAEWQ;AAFX,AAAA,gBAAA,KAAA,jBAEWA,iBACP,OAAAC,cAAA,KACE,AAAAC,aAAA,KAAY,AAAA,mFAAOZ,cACnB,AAAAa,gBAAA,aAAA;;AALN,AAAA,AAAA,AAAAX,yDAAA,WAAAK;AAAA,AAAA,IAAAA,YAAA,KAAA,AAAAC;;AAAA,AAAA,AAAA,AAAAN,kEAAA,WAAAK,MAAAC;yEADIT,ZAAQC,bAAKC,hDACjB,AAAA,IAAAM,YAAA,KAAA,AAAA,YAAAL,sDAAAM;;8DADIT,mEAAAA,5EAAQC,mEAAAA,7EAAKC,mEAAAA,9GACjB,AAAAQ,sBAAA,mDAAAD,UAAA,AAAA,YAAAN,6CAAAM;;AAAAN;sCADIH,LAAQC,NAAKC,3BACjB,YAAAC,iCAAA;;AAOF,0DAAA,2CAAA,rGAACY,uBAAQhB,gBACPF,uHACS,oBAAA,pBAACmB;AAEZ,wBAAA,yBAAA,jDAAMC,iDACJ,IAAMC,aAAW,mBAAA,RAAKC,QAAQ,4CAAA,xCAAMC,QAAM,uBAAA,vBAAGC,gCACd,QAAA,PAAMC,mBAAmBH;AACzB,OAAGG,yBAA6BF,MAAMD;OAC/DI,WAAS;uBAAA,LAAKC,KAAK,OAAGC,YAAgB,eAAA,4CAAuCD;;mBAHnF,UAAA,eAAA,OAAA,9CAIME,8CACJ,OAAGC,uBAA2BD,YAAYR,WAAWK;;AACzD,QAAA,PAAMD,0BAA0BL",
  "names":
- ["cljs.core/enable-console-print!", "gum.core/widget", "widget",
-  "data", "owner", "gum.core/t7196", "this__4048__auto__",
-  "writer__4049__auto__", "opt__4050__auto__", "cljs.core/-write",
-  "_7198", "meta7197", "gum.core/->t7196", "this", "js/React.DOM.h1",
-  "om.core/root", "js/document"]}
+ ["cljs.core/enable-console-print!", "gum.core/app-state",
+  "cljs.core/atom", "gum.core/widget", "widget", "data", "owner",
+  "gum.core/t5941", "this__4048__auto__", "writer__4049__auto__",
+  "opt__4050__auto__", "cljs.core/-write", "_5943", "meta5942",
+  "gum.core/->t5941", "this", "js/React.DOM.div", "js/React.DOM.h1",
+  "js/React.DOM.video", "om.core/root", "goog.dom/getElement",
+  "gum.core/webrtc-ready", "on-success", "stream", "video",
+  "js/document", "js/window", "on-error", "err", "js/console",
+  "constraints", "js/navigator"]}

@@ -12,12 +12,15 @@
                  [org.clojure/core.async "0.1.303.0-886421-alpha"]
                  [om "0.6.2"]
                  [compojure "1.1.8"]
-                 [fogus/ring-edn "0.2.0"]]
+                 [fogus/ring-edn "0.2.0"]
+                 [com.cemerick/piggieback "0.1.3"]]
 
   :plugins [[lein-cljsbuild "1.0.3"]]
 
   :source-paths ["src/clj" "src/cljs"]
   :resource-paths ["resources"]
+
+  :repl-options {:nrepl-middleware [cemerick.piggieback/wrap-cljs-repl]}
 
   :cljsbuild {
     :builds [{:id "dev"
